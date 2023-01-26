@@ -17,23 +17,27 @@ I'm a brazilian guy following the path to be a dev
 
 ## 🔧 Languages and Tools
 
-<div>
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<div align="center">
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<br />
 </div>
 
-## 📊 My stats
+#
+
+ ## 📊 My stats
 
 <div align="center">
+ 
   <img width=50% src="https://github-readme-stats.vercel.app/api?username=b4yerl&count_private=true&show_icons=true&theme=synthwave&hide=stars&include_all_commits=true" alt="Bayerl's stats">
   <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css" alt="Bayerl's most used langs">
 </div>
