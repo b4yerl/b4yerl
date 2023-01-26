@@ -6,14 +6,40 @@
  <img src="https://images.wallpapersden.com/image/download/alone-cyberpunk-boy-in-city_a25mbG6UmZqaraWkpJRnamtlrWZlbWU.jpg">
 </div>
 
+## 🤘 About me
+
+I'm a brazilian guy following the path to be a dev
+
+- I am currently a student in the Information Systems major.
+- Aspiring backend developer focusing my studies on Node.js
+- CRUZEIRO ESPORTE CLUBE
+- You can reach me out on     <a target="_blank" href="https://www.linkedin.com/in/b4yerl"><img height=20px src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+## 🔧 Languages and Tools
+
+<div>
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img height=50px style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+
 ## 📊 My stats
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=b4yerl&count_private=true&show_icons=true&theme=synthwave&hide=stars&include_all_commits=true" alt="Bayerl's stats">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css" alt="Bayerl's most used langs">
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=b4yerl&count_private=true&show_icons=true&theme=synthwave&hide=stars&include_all_commits=true" alt="Bayerl's stats">
+  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css" alt="Bayerl's most used langs">
 </div>
 
 ##
   
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=b4yerl&theme=synthwave" alt="b4yerl" /></p>
+
