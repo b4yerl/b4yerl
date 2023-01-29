@@ -10,10 +10,10 @@
 
 I'm a brazilian guy following the path to be a dev
 
-- I am currently a student in the Information Systems major.
-- Aspiring backend developer focusing my studies on Node.js
-- CRUZEIRO ESPORTE CLUBE
-- You can reach me out on     <a target="_blank" href="https://www.linkedin.com/in/b4yerl"><img height=20px src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 📚 I am currently a student in the Information Systems major.
+- 👀 Aspiring backend developer focusing my studies on Node.js
+- ☕ Probably drinking some coffee right now
+- 👾 You can reach me out on     <a target="_blank" href="https://www.linkedin.com/in/b4yerl"><img height=20px src="https://img.shields.io/badge/LinkedIn-0077B5?style=shield&logo=linkedin&logoColor=white"></a>
 
 ## 🔧 Languages and Tools
 
@@ -27,23 +27,22 @@ I'm a brazilian guy following the path to be a dev
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+            <img height=50px style="padding-right:10px;" />
 <br />
 </div>
 
-#
+##
 
  ## 📊 My stats
 
 <div align="center">
  
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=b4yerl&count_private=true&show_icons=true&theme=synthwave&hide=stars&include_all_commits=true" alt="Bayerl's stats">
-  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css" alt="Bayerl's most used langs">
+  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=b4yerl&count_private=true&show_icons=true&theme=synthwave&hide=stars&include_all_commits=true" alt="Bayerl's stats">
+  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css" alt="Bayerl's most used langs">
 </div>
 
 ##
   
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=b4yerl&theme=synthwave" alt="b4yerl" /></p>
+<p align="center"><img  width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=b4yerl&theme=synthwave" alt="b4yerl" /></p>
 
