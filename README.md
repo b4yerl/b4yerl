@@ -10,9 +10,9 @@
 
 I'm a brazilian guy following the path to be a dev
 
-- 📚 I am currently a student in the Information Systems major.
-- 👀 Aspiring backend developer focusing my studies on Node.js
-- ☕ Probably drinking some coffee right now
+- 📚 I am a student pursuing a Bachelor's degree in Information Systems at PUC Minas.
+- 👀 Aspiring backend developer focusing my studies on Node.js.
+- ☕ Probably drinking some coffee right now.
 - 👾 You can reach me out on     <a target="_blank" href="https://www.linkedin.com/in/b4yerl"><img height=20px src="https://img.shields.io/badge/LinkedIn-0077B5?style=shield&logo=linkedin&logoColor=white"></a>
 
 ## 🔧 Languages and Tools
