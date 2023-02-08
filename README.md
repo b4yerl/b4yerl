@@ -38,7 +38,7 @@ I'm a brazilian guy following the path to be a dev
 <div align="center">
  
   <img width="600px" src="https://github-readme-stats.vercel.app/api?username=b4yerl&count_private=true&show_icons=true&theme=synthwave&hide=stars&include_all_commits=true" alt="Bayerl's stats">
-  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css" alt="Bayerl's most used langs">
+  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css,shell" alt="Bayerl's most used langs">
 </div>
 
 ##
