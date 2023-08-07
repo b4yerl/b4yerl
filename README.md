@@ -13,7 +13,7 @@
 I'm a brazilian guy following the path to be a dev
 
 - 📚 Student pursuing a Bachelor's degree in Information Systems at PUC Minas.
-- 👀 Aspiring backend developer focusing my studies on Node.js.
+- 👀 Aspiring backend developer focusing my studies on Node.js and Java.
 - ☕ Probably drinking some coffee right now.
 - 👾 You can reach me out on     <a target="_blank" href="https://www.linkedin.com/in/b4yerl"><img height=20px src="https://img.shields.io/badge/LinkedIn-0077B5?style=shield&logo=linkedin&logoColor=white"></a>
 
@@ -24,9 +24,8 @@ I'm a brazilian guy following the path to be a dev
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
             <img height=50px style="padding-right:10px;" />
 <br />
@@ -39,7 +38,7 @@ I'm a brazilian guy following the path to be a dev
 <div align="center">
  
   <img width="600px" src="https://github-readme-stats.vercel.app/api?username=b4yerl&count_private=true&show_icons=true&theme=synthwave&hide=stars&include_all_commits=true" alt="Bayerl's stats">
-  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css,shell" alt="Bayerl's most used langs">
+  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4yerl&layout=compact&theme=synthwave&hide=tsql,html,css,shell,jupyter%20notebook" alt="Bayerl's most used langs">
 </div>
 
 ##
