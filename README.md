@@ -42,5 +42,5 @@ I'm a brazilian guy following the path to be a dev
 ##
   
 
-<p align="center"><img  width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=b4yerl&theme=synthwave" alt="b4yerl" /></p>
+<!-- <p align="center"><img  width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=b4yerl&theme=synthwave" alt="b4yerl" /></p> -->
 
