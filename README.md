@@ -10,10 +10,10 @@
 
 ## 🤘 About me
 
-I'm a brazilian guy following the path to be a dev
+I'm just a brazilian dev
 
 - 📚 Student pursuing a Bachelor's degree in Information Systems at PUC Minas.
-- 👀 Aspiring mobile developer focusing my studies on React Native.
+- 👀 Currently working as a fullstack dev at Banco do Brasil.
 - ☕ Probably drinking some coffee right now.
 - 👾 You can reach me out on     <a target="_blank" href="https://www.linkedin.com/in/b4yerl"><img height=20px src="https://img.shields.io/badge/LinkedIn-0077B5?style=shield&logo=linkedin&logoColor=white"></a>
 
@@ -23,9 +23,8 @@ I'm a brazilian guy following the path to be a dev
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+            <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" />
             <img align="left" height=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
             <img height=50px style="padding-right:10px;" />
 <br />
